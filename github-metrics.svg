@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .title { font: bold 24px sans-serif; fill: #333; }
+      .subtitle { font: 16px sans-serif; fill: #666; }
+      .instruction { font: 14px sans-serif; fill: #888; }
+    </style>
+  </defs>
+  
+  <rect width="800" height="400" fill="#f6f8fa" stroke="#d1d5da" stroke-width="2" rx="6"/>
+  
+  <text x="400" y="150" text-anchor="middle" class="title">
+    GitHub Metrics
+  </text>
+  
+  <text x="400" y="190" text-anchor="middle" class="subtitle">
+    Placeholder - Metrics will be generated automatically
+  </text>
+  
+  <text x="400" y="240" text-anchor="middle" class="instruction">
+    After merging this PR and setting up the METRICS_TOKEN secret,
+  </text>
+  <text x="400" y="265" text-anchor="middle" class="instruction">
+    the GitHub Actions workflow will generate your personalized metrics.
+  </text>
+  <text x="400" y="290" text-anchor="middle" class="instruction">
+    This can take a few minutes to run for the first time.
+  </text>
+</svg>
