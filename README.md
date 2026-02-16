@@ -20,8 +20,3 @@ I enjoy building AI apps and agents across the Microsoft stack. From low code wi
 ![M365 Agents Toolkit](https://img.shields.io/badge/M365%20Agents%20Toolkit-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=flat&logo=githubcopilot&logoColor=white)
 
-
-## 📊 GitHub Metrics
-
-![GitHub Metrics](./github-metrics.svg)
-
