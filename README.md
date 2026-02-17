@@ -13,10 +13,11 @@ I enjoy building AI apps and agents across the Microsoft stack. From low code wi
 
 ## 💻 Languages & Tools
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat&logo=powerapps&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-7F2B82?style=flat&logo=microsoft&logoColor=white)
-![Microsoft Foundry](https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=flat&logo=microsoft&logoColor=white)
-![M365 Agents Toolkit](https://img.shields.io/badge/M365%20Agents%20Toolkit-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=flat&logo=githubcopilot&logoColor=white)
+<p>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.9dFf9CDx1Xk7RgNRs2jkvgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" alt="TypeScript" height="50">&nbsp;&nbsp;
+  <img src="https://vectorseek.com/wp-content/uploads/2023/11/Microsoft-Power-Platform-Logo-Vector.svg-.png" alt="Power Platform" height="50">&nbsp;&nbsp;
+  <img src="https://adoption.microsoft.com/wp-content/uploads/2025/12/icon-microsoft-copilot-studio.png" alt="Copilot Studio" height="50">&nbsp;&nbsp;
+  <img src="https://teamsdevapp.gallerycdn.vsassets.io/extensions/teamsdevapp/vscode-ai-foundry/0.12.5/1765531638074/Microsoft.VisualStudio.Services.Icons.Default" alt="Microsoft Foundry" height="50">&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/G/github-copilot-logo-C25AFBDF08-seeklogo.com.png" alt="GitHub Copilot" height="50">
+</p>
 
