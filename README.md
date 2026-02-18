@@ -23,3 +23,12 @@ I enjoy building AI apps and agents across the Microsoft stack. From low code wi
   <img src="https://quarto.org/docs/get-started/images/vscode-logo.png" alt="VS Code" height="50">
 </p>
 
+## 🧰 SDKs I'm Currently Building With
+
+| SDK | What it does | Learn more |
+|-----|-------------|------------|
+| **Microsoft 365 Agents SDK** | Build conversational AI agents that work across Teams, Copilot, and more — supports C#, JS, and Python | [Docs](https://learn.microsoft.com/en-us/microsoft-365/agents-sdk/agents-sdk-overview) |
+| **M365 Agents Toolkit CLI** | CLI companion for the Agents Toolkit — scaffold, provision, deploy, and preview agents fast | [Docs](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/microsoft-365-agents-toolkit-cli) |
+| **Agent365 SDK & CLI** | Developer tools for building and managing agents in the Microsoft Agent 365 ecosystem | [Docs](https://learn.microsoft.com/en-us/microsoft-agent-365/developer/) |
+| **Power Apps Component Framework** | Create custom code components for model-driven and canvas apps using TypeScript | [Docs](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/overview) |
+| **Microsoft Foundry SDK** | Develop and orchestrate AI apps and agents on Azure with built-in model access, tracing, and evaluation | [Docs](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/sdk-overview) |
