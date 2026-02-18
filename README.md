@@ -2,7 +2,7 @@
 
 **Solution Engineer @ Microsoft**
 
-I enjoy building AI apps and agents across the Microsoft stack. From low code with the Power Platform and Pro Code on Azure - I enjoy building all over.
+I enjoy building AI apps and agents across the Microsoft stack.
 
 ## 🔧 What I Work With
 
